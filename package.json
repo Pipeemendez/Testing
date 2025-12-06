@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pipeemendez/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pipeemendez/Testing/issues"
+  },
+  "homepage": "https://github.com/Pipeemendez/Testing#readme",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
